@@ -1,1 +1,1 @@
-FROM postgres1.0
+FROM postgres1.50

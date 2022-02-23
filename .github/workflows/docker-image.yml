@@ -18,4 +18,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Build the Docker image
-      run: docker build -f ./rajesh/dockerfiles/golang/1.15-alpine-fuzz/Dockerfile
+      run: docker build  ./rajesh/dockerfiles/golang/1.15-alpine-fuzz/Dockerfile

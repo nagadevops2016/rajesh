@@ -18,4 +18,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Build the Docker image
-      run: echo "building the docker image"
+      run: docker build -f dockerfiles/golang/1.15-alpine-fuzz/Dockerfile

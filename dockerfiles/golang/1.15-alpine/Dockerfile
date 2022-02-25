@@ -1,2 +1,2 @@
-FROM jenkins/jenkins
+FROM nagapatukuru/mynginx
 

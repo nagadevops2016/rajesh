@@ -1,4 +1,4 @@
-name: Docker Image CI
+name: golang/1.15-alpine
 
 on:
   push:

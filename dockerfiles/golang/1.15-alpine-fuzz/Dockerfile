@@ -1,2 +1,2 @@
-FROM golang:latest
+FROM ubuntu
 

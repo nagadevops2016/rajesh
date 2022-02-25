@@ -1,2 +1,2 @@
-FROM golang
+FROM jenkins/jenkins
 
